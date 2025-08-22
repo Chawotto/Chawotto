@@ -1,6 +1,6 @@
 # 💫 About Me:
 BSUIR student :)<br><br>Сomputer science, engineering.
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="aliaksandr-yesepionak-219257380" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/aliaksandr-yesepionak-219257380?trk=profile-badge">Aliaksandr Yesepionak</a></div>
               
 
